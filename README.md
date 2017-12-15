@@ -48,6 +48,8 @@ Sound design:
 Main Menu: Ambient noise, button pressed sound
 Two player: Select card sound, ambient?
 
+double tap in tutorial
+
 
 // Design:  Background. Passed icon when a player has passed.
 // Esitmated time: 1 1/2hr
